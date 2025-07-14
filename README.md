@@ -1,0 +1,1 @@
+# Projeto-de-Web-Scraping---Manchetes-do-G1
