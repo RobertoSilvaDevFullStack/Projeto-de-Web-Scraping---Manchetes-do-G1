@@ -1,0 +1,31 @@
+Projeto de Web Scraping - Manchetes do G1
+Dados coletados em: 14/07/2025 às 20:30:03
+==================================================
+
+Título: Dólar atinge maior valor em mais de 1 mês com expectativa sobre tarifas e reação do Brasil
+Link: https://g1.globo.com/economia/noticia/2025/07/14/dolar-ibovespa.ghtml
+---
+Título: Governo Trump faz nova ameaça e diz seguir 'de perto' situação de Bolsonaro
+Link: https://g1.globo.com/mundo/noticia/2025/07/14/governo-trump-faz-nova-ameaca-ao-brasil-e-diz-acompanhar-de-perto-situacao-de-bolsonaro.ghtml
+---
+Título: Câmera corporal mostra PM executando suspeito rendido dentro de casa em SP
+Link: https://g1.globo.com/sp/sao-paulo/noticia/2025/07/14/camera-corporal-mostra-pm-executando-suspeito-que-estava-rendido-durante-operacao-em-paraisopolis.ghtml
+---
+Título: Apenas 3 escolas públicas estão entre as 50 melhores no Enem 2024
+Link: https://g1.globo.com/educacao/noticia/2025/07/14/enem-2024-ranking-melhores-escolas.ghtml
+---
+Título: Ataques a ônibus em SP: MAPA mostra ruas com mais depredações
+Link: https://g1.globo.com/sp/sao-paulo/noticia/2025/07/14/mapa-dos-ataques-a-onibus-em-sp-saiba-quais-sao-as-ruas-com-mais-depredacoes-na-capital.ghtml
+---
+Título: Como fica a fortuna de Marília Mendonça com disputa por guarda do filho
+Link: https://g1.globo.com/fantastico/noticia/2025/07/14/contas-bloqueadas-como-fica-fortuna-de-marilia-mendonca-apos-juiz-conceder-guarda-do-filho-a-murilo-huff.ghtml
+---
+Título: Juíza é demitida por sentenças idênticas em 2 mil processos
+Link: https://g1.globo.com/rs/rio-grande-do-sul/noticia/2025/07/14/juiza-demitida-tj-rs.ghtml
+---
+Título: Toneladas de mel são enviadas aos EUA após apelo de produtores
+Link: https://g1.globo.com/pi/piaui/noticia/2025/07/14/tarifaco-de-trump-clientes-dos-eua-voltam-atras-e-conteineres-com-toneladas-de-mel-sao-embarcados.ghtml
+---
+Título: É #FAKE que China e Brasil assinaram acordo em resposta a tarifas de Trump
+Link: https://g1.globo.com/fato-ou-fake/noticia/2025/07/14/e-fake-que-china-e-brasil-assinaram-acordo-comercial-de-20-anos-em-resposta-a-tarifas-de-50percent-de-trump.ghtml
+---
