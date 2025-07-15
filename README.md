@@ -1,6 +1,6 @@
 # Web Scraper de Notícias do G1 📰
 
-Este é um projeto simples de web scraping desenvolvido como parte de um processo seletivo. O script coleta as manchetes principais da página inicial do portal de notícias G1 e as salva em um arquivo de texto.
+Este é um projeto simples de web scraping. O script coleta as manchetes principais da página inicial do portal de notícias G1 e as salva em um arquivo de texto.
 
 ---
 
